@@ -6,7 +6,6 @@ description: "Write an awesome description for your new site here. You can edit 
 keywords: "your keywords, separated by commas"
 skills: "Computer Science student at YorkU"
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
   - title: github
     url: https://github.com/MajdArkilo
   - title: linkedin
