@@ -5,7 +5,6 @@ date: 2014-07-18
 img: optimiva.png
 alt: image-alt
 project-date: Sep 2020
-client: 45
 category: Web Development
-description: created a static ecommerce website replicating amazon functionalities Technologies used Node.js, AngularJS, SQL, Google Maps API and AWS EC2
+description: created a static ecommerce website replicating amazon functionalities. Technologies used: Node.js, AngularJS, SQL, Google Maps API and AWS EC2
 ---
