@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 3
 date: 2014-07-17
-img: cake.png
+img: flightz.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Dec 2020
+client: School Group Project
+category: Data Science
+description: The outcome of the analysis in this project will enable us to answer some important questions of interest. In particular, which airport saw the highest reduction in air travel?, which paths have disappeared from the flight network due to the COVID-19 pandemic?, would it be possible to predict any future changes in the paths or links across the flight network, and if so, which links would be affected?. Have certain airports become more or less influential since the enactment of COVID-19 travel restrictions? Project will use air traffic datasets provided by OpenSky Network and will be implemented using Python and NetworkX.
 ---
